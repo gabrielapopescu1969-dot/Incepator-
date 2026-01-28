@@ -1,2 +1,4 @@
 # Incepator-
-Github în romana
+##Github în romana
+#Scop
+##invatare bioinformatica
